@@ -4,7 +4,8 @@
 # Project Overview:
 Welcome to the Vrinda Store Dashboard repository! This repository contains an Excel dashboard designed specifically for Vrinda Store, providing comprehensive insights into various aspects of your sales data.
 
-
+## Dashboard
+![Dashboard_image](https://github.com/tejasrangle/Vrinda_Store_Dashboard/assets/110970662/d350355f-7639-47dc-b498-ecce8f4405c3)
 
 ## Features:
 - Order Analysis: Dive deep into order details, including order ID, customer ID, gender, age, date, and status.
