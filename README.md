@@ -2,10 +2,11 @@
 
 
 # Project Overview:
-Welcome to the Vrinda Store Dashboard repository! This repository contains an Excel dashboard designed specifically for Vrinda Store, providing comprehensive insights into various aspects of your sales data.
+Welcome to the Shreeman Store Dashboard repository! This repository contains an Excel dashboard designed specifically for the Shreeman Store, providing comprehensive insights into various aspects of your sales data.
 
 ## Dashboard
-![Dashboard_image](https://github.com/tejasrangle/Vrinda_Store_Dashboard/assets/110970662/d350355f-7639-47dc-b498-ecce8f4405c3)
+![Dashboard_image](https://github.com/tejasrangle/Shreeman_Store_Dashboard/assets/110970662/6e434075-5b51-4b45-b2c9-4485ea5ea3eb)
+
 
 ## Features:
 - Order Analysis: Dive deep into order details, including order ID, customer ID, gender, age, date, and status.
@@ -28,7 +29,7 @@ Microsoft Excel: Utilized for data analysis, visualization, and dashboard creati
 
 - Open the Dashboard: Open the Excel file using Microsoft Excel or a compatible spreadsheet application.
 
-- Explore the Data: Navigate through different sheets and charts to explore various aspects of Vrinda Store's sales data.
+- Explore the Data: Navigate through different sheets and charts to explore various aspects of Shreeman Store's sales data.
 
 - Customize as Needed: Modify the dashboard to suit your specific requirements by updating data sources or adding new analyses.
 
